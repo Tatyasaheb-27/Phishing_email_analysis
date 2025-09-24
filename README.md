@@ -59,6 +59,7 @@ Each email entry has the following fields:
   "recommended_action": "quarantine"
 }
 
+
 Indicators flagged
  • suspicious_domain → sender’s domain may not be legitimate Microsoft
  • urgent_language → uses fear/urgency (“unusual sign-in”, “blocked access”)
