@@ -60,7 +60,7 @@ Each email entry has the following fields:
 }
 
 
-Indicators flagged
+  Indicators flagged
  • suspicious_domain → sender’s domain may not be legitimate Microsoft
  • urgent_language → uses fear/urgency (“unusual sign-in”, “blocked access”)
  • link_mismatch → “Review recent activity” button likely points to non-Microsoft domain
