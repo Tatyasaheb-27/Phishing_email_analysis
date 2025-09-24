@@ -1,11 +1,6 @@
-# Phishing_email_analysis
-This repository contains a detailed report on identifying phishing characteristics such as spoofed domains, header anomalies, suspicious links, and social engineering techniques..
+# 📧 Phishing_email_analysis
 
-⸻
-
-# 📧 Phishing Email Dataset
-
-This repository contains a small, curated dataset of **phishing vs. benign email examples**.  
+This repository contains a small, curated dataset of **phishing email examples**.  
 Each entry includes metadata (subject, sender, headers, body), a label, and a set ofME.md tailored fdescribing why an email is considered suspicious.
 
 The dataset is meant for:
